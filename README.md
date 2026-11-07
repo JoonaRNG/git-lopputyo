@@ -1,4 +1,4 @@
-# Opintojen seuranta
+# Opintojen ja tehtävien seuranta
 
 Tämä on Ohjelmointivälineet ja versionhallinta -kurssin lopputyö.
 
