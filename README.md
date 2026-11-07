@@ -24,3 +24,8 @@ Merge-konflikti syntyi, kun muutin samaa otsikkoa kahdessa haarassa. Ratkaisin s
 ## Mitä opin
 
 Opin tallentamaan muutoksia Gitin historiaan ja käyttämään haaroja. Harjoittelin myös konfliktin ratkaisemista ja virheellisen commitin kumoamista. Tarvitsin vielä ohjeita erityisesti edistyneissä komennoissa.
+
+## Tekijä
+
+Nimi: Joona Saukkoriipi
+Opiskelijanumero: 2608092
