@@ -10,3 +10,5 @@ muutosten yhdistämistä ja versionhallinnan muita toimintoja.
 
 - kurssit.md: seurattavat kurssit ja niiden tilanne.
 - tehtavat.md: opiskelutehtävien seuranta.
+- vinkit.md: opiskelua helpottavia vinkkejä.
+- .gitignore: jättää lokitiedostot versionhallinnan ulkopuolelle.
